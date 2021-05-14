@@ -2,7 +2,7 @@ require 'rails_helper'
 
 describe 'manager requests' do
   describe 'employee vacation requests info' do
-    it 'manager can see a speccific employees vacation requests info' do
+    it 'manager can see a specific employees vacation requests info' do
       manager = Manager.create!(name: "I'm a Manager!")
       employee_1 = Employee.create!(name: "Saundra", manager_id: manager.id)
       employee_2 = Employee.create!(name: "Bob", manager_id: manager.id)
