@@ -21,7 +21,7 @@ Your task is to build one HTTP API that allows employees to make vacation reques
 
 ## API Contract
 
-INSERT IMAGE HERE
+![Screen Shot 2021-05-14 at 2 04 49 PM](https://user-images.githubusercontent.com/68261312/118323120-65858580-b4bd-11eb-8ce6-b4321bf50cb2.png)
 
 
 ## Testing Tools Utilized
@@ -32,6 +32,7 @@ INSERT IMAGE HERE
 
 ## Notes
 
+I hoped to get to more end points and better testing all around. I got stuck initially with my basic model RSpec tests not running and getting long-winded errors that sent me down some rabbit holes for about an hour and a half. 
 
 
 ## Author
