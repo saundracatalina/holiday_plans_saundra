@@ -1,24 +1,39 @@
-# README
+# Holiday Plans Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Overview  
+It's November, and everyone is planning their holiday vacation. But management is struggling! They need a solution to approve vacation requests while also ensuring that there are still enough employees in the office to achieve end-of-year goals.
 
-Things you may want to cover:
+Your task is to build one HTTP API that allows employees to make vacation requests, and another that provides managers with an overview of all vacation requests and allows them to decline or approve requests.
 
-* Ruby version
 
-* System dependencies
+## README Content
+- [Database Schema](#database-schema)
+- [API Contract](#api-contract)
+- [Testing](#testing-tools-utilized)
+- [Notes](#notes)
+- [Author](#author)
 
-* Configuration
 
-* Database creation
+## Database Schema
 
-* Database initialization
+<img width="795" alt="Screen Shot 2021-05-14 at 9 02 19 AM" src="https://user-images.githubusercontent.com/68261312/118303028-3281c880-b4a2-11eb-94e9-1546b5e9fa73.png">
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## API Contract
 
-* Deployment instructions
+INSERT IMAGE HERE
 
-* ...
+
+## Testing Tools Utilized
+- RSpec  
+- Capybara  
+- SimleCov  
+
+
+## Notes
+
+
+
+## Author
+
+- Saundra Catalina | [github](https://github.com/saundracatalina) | [linkedin](https://www.linkedin.com/in/saundra-catalina/)
