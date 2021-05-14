@@ -5,6 +5,11 @@ Rails.application.routes.draw do
       resources :employees, only: [:show] do
         resources :vacation_requests, only: [:create]
       end
+      resources :managers do
+        resources :employees do
+          resources :vacation_requests
+        end
+      end
     end
   end
 end
